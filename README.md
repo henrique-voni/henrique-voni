@@ -4,7 +4,7 @@ Hello, i'm a Machine Learning Developer with a Masters in Computer Science, most
 
  - :computer: Main research: Ensemble learning applied to Brain-Computer Interfaces (BCI)
 
-Also, i'm currently working at SiDi - the brazilian research institute of computing owned by Samsung. I work with the machine learning in charge of brazilian portuguese version of Bixby, Samsung's voice assistant.
+Also, i'm currently working at Mercado Livre's Fraud Detection Data Science team. Mainly developing text classification models, Agentic/RAG pipelines and historical data analysis.
 
 #### Let's talk :memo:
 
